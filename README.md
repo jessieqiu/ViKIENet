@@ -10,5 +10,8 @@ https://openaccess.thecvf.com/content/CVPR2025/html/Yu_ViKIENet_Towards_Efficien
 Paper pdf
 https://openaccess.thecvf.com/content/CVPR2025/papers/Yu_ViKIENet_Towards_Efficient_3D_Object_Detection_with_Virtual_Key_Instance_CVPR_2025_paper.pdf
 
-Although we cannot open source the code due to a patent application, please feel free to contact us (jessieq126@yahoo.com or 13917711090yu@gmail.com)
+YouTube video explanation link
+https://youtu.be/j5CpA5z53gY?si=mTduc2KiHLczcjpm
+
+Although we cannot open source the code due to an ongoing patent application, please feel free to contact us (jessieq126@yahoo.com or 13917711090yu@gmail.com)
  if you have any questions about this paper, and please cite our paper if you find it helpful or inspirational :)
